@@ -11,3 +11,4 @@ I entered this scholarship to learn the field of programming and to link it with
 |    Read02a     |   [Learning Markdown](Read02a.md)            |
 |    Read02b     |   [ Revisions and the Cloud](Read02b.md)     |
 |    Read03      |   [Structure web pages with HTML](Read03.md) |
+|    Read04a     |   [Programming with JavaScript](Read04a.md)  |
