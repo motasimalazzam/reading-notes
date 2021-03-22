@@ -14,7 +14,7 @@ We can use the CSS by 3 ways:
 1) Inline: write in the same line in opining tags. (EX: <p style=” color: blue;”> </p> ).
 
 
-2) Internal: Write it in HTML in the head. (EX: <style> p{ color: blue;} </style> ).
+2) Internal: Write it in HTML in the head. (EX: style> p{ color: blue;} </style> ).
 
 
 3) External: create CSS file and link it with the HTML file by writing <link rel=”stylesheet” href=”path css file”> .
