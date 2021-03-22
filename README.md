@@ -13,3 +13,4 @@ I entered this scholarship to learn the field of programming and to link it with
 |    Read03      |   [Structure web pages with HTML](Read03.md) |
 |    Read04a     |   [Programming with JavaScript](Read04a.md)  |
 |    Read05      |   [Operators and Loops](Read05.md)           |
+|    Read06      |   [Design web pages with CSS](Read06.md)     |
