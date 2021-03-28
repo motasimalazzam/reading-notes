@@ -6,17 +6,17 @@ HTML (Hypertext Markup Language) is the markup language for creating Web pages a
  
 Attributes are placed with some tags and their task is to modify the tag function and the general form is { name = “ value “ }.
 
-Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using. We use HTML5 and we write <!DOCTYPE html> in HTML document. To write comments in HTML we can use these characters: <!-- --> and add comments between it.
+Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using. We use HTML5 and we write `<!DOCTYPE html>` in HTML document. To write comments in HTML we can use these characters:` <!-- --> `and add comments between it.
 
 HTML5 Layout
 
 There are layout elements that help web page designers to build and design pages, and from these elements:
 
-1) <div> : used to group the large section of HTML elements together.
+1) `<div>` : used to group the large section of HTML elements together.
 
-2) <header> : is used as a container of introductory content or navigation links.
+2) `<header>` : is used as a container of introductory content or navigation links.
 
-3) <footer> : is used to define a footer for a document or a section. It is generally used in the last of the section (bottom of the page).
+3) `<footer>` : is used to define a footer for a document or a section. It is generally used in the last of the section (bottom of the page).
 
 
 Structure web pages with HTML
