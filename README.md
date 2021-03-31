@@ -25,7 +25,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-01     | [Introductory HTML and JavaScript](201/class-01.md)                        |
 |   class-02     | [HTML Text,CSS Introduction,Basic JavaScript Instructions](201/class-02.md)|
 |   class-03     | [HTML Lists, Control Flow with JS, and the CSS Box Model](201/class-03.md) |
-|   Read04       |                                                                            |
+|   class-04     | [HTML links, JS Functions, and Intro to CSS layout](201/class-04.md)       |
 |   Read05       |                                                                            |
 |   Read06       |                                                                            |
 |   Read07       |                                                                            |
