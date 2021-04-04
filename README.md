@@ -37,4 +37,3 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   Read13       |                                                                            |
 |   Read14       |                                                                            |
 |   Read15       |                                                                            |
-JS Object Literals; The DOM
