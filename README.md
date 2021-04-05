@@ -28,7 +28,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-04     | [HTML links, JS Functions, and Intro to CSS layout](201/class-04.md)       |
 |   Read05       |                                                                            |
 |   class-06     |[JS object Literals; The DOM](201/class-06.md)                              |
-|   Read07       |                                                                            |
+|   class-07     |[Object-Oriented Programming, HTML Tables](201/class-07.md)                 |
 |   Read08       |                                                                            |
 |   Read09       |                                                                            |
 |   Read10       |                                                                            |
