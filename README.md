@@ -31,7 +31,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-07     | [Object-Oriented Programming, HTML Tables](201/class-07.md)                |
 |   class-08     | [CSS Layout](201/class-08.md)                                              |
 |   class-09     | [Forms and JS Events](201/class-09.md)                                     |
-|   Read10       |                                                                            |
+|   class-10     | [JS Debugging](201/class-10.md)                                            |
 |   Read11       |                                                                            |
 |   Read12       |                                                                            |
 |   Read13       |                                                                            |
