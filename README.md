@@ -32,8 +32,8 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-08     | [CSS Layout](201/class-08.md)                                              |
 |   class-09     | [Forms and JS Events](201/class-09.md)                                     |
 |   class-10     | [JS Debugging](201/class-10.md)                                            |
-|   clas-11      | [Assorted Topics](201/class-11.md)                                         |
-|   Read12       |                                                                            |
+|   class-11     | [Assorted Topics](201/class-11.md)                                         |
+|   class-12     | [Docs for the HTML canvas Element & Chart.js](201/class-12.md)             |
 |   Read13       |                                                                            |
 |   Read14       |                                                                            |
 |   Read15       |                                                                            |
