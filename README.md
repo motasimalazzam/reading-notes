@@ -1,11 +1,13 @@
 # reading-notes
 
+This tables include linkes for reading assignments of code fellows software development course.
+
 ## About Me
 
 Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from Al Hussein Bin Talal University last year with a very good rating grade. I loved the field of programming and I aspire to become a professional software developer.
 
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 | Assignment     |            Link                                  |
 | -------------- | ------------------------------------------------ |
@@ -18,7 +20,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |    Read05      |   [Operators and Loops](102/Read05.md)           |
 |    Read06      |   [Design web pages with CSS](102/Read06.md)     |
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 | Assignment     |            Link                                                            |
 | -------------- | -------------------------------------------------------------------------- |
@@ -37,3 +39,23 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-13     | [Local Storage](201/class-13.md)                                           |
 |   class-13b    | [CSS Transforms, Transitions, and Animations](201/class-13b.md)            |
 |   class-14     | [What Google Learned About Teams](201/class-14.md)                         |
+
+## Code 301 - Intermediate Software Development
+
+| Assignment     |            Link                                                            |
+| -------------- | -------------------------------------------------------------------------- |
+|   class-01     |                                                                            |
+|   class-02     |                                                                            |
+|   class-03     |                                                                            |
+|   class-04     |                                                                            |
+|   class-05     |                                                                            |
+|   class-06     |                                                                            |
+|   class-07     |                                                                            |
+|   class-08     |                                                                            |
+|   class-09     |                                                                            |
+|   class-10     |                                                                            |
+|   class-11     |                                                                            |
+|   class-12     |                                                                            |
+|   class-13     |                                                                            |
+|   class-14     |                                                                            |
+|   class-15     |                                                                            |
