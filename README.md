@@ -44,9 +44,9 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 
 | Assignment     |            Link                                                            |
 | -------------- | -------------------------------------------------------------------------- |
-|   class-01     | [Passing Functions as Props](301/class-03.md)                              |
+|   class-01     |                                                                            |
 |   class-02     |                                                                            |
-|   class-03     |                                                                            |
+|   class-03     | [Passing Functions as Props](301/class-03.md)                              |
 |   class-04     |                                                                            |
 |   class-05     |                                                                            |
 |   class-06     |                                                                            |

@@ -42,4 +42,4 @@ let lastName={lastName:"Alazzam"};
 let fullName={...firstName, ...lastName};
 console.log(fullName)
 
- ```
+ ```js
