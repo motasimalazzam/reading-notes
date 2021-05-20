@@ -48,7 +48,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-02     |                                                                            |
 |   class-03     | [Passing Functions as Props](301/class-03.md)                              |
 |   class-04     | [ React and Forms](301/class-04.md)                                        |
-|   class-05     |                                                                            |
+|   class-05     | [Putting it all together](301/class-05.md)                                 |
 |   class-06     |                                                                            |
 |   class-07     |                                                                            |
 |   class-08     |                                                                            |
