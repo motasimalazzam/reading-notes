@@ -44,12 +44,12 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 
 | Assignment     |            Link                                                            |
 | -------------- | -------------------------------------------------------------------------- |
-|   class-01     |                                                                            |
+|   class-01     | [Introduction to React and Components](301/class-01.md)                    |
 |   class-02     |                                                                            |
 |   class-03     | [Passing Functions as Props](301/class-03.md)                              |
 |   class-04     | [ React and Forms](301/class-04.md)                                        |
 |   class-05     | [Putting it all together](301/class-05.md)                                 |
-|   class-06     |                                                                            |
+|   class-06     | [NODE.JS](301/class-06.md)                                                 |
 |   class-07     |                                                                            |
 |   class-08     |                                                                            |
 |   class-09     |                                                                            |
