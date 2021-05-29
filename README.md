@@ -50,11 +50,11 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-04     | [ React and Forms](301/class-04.md)                                        |
 |   class-05     | [Putting it all together](301/class-05.md)                                 |
 |   class-06     | [NODE.JS](301/class-06.md)                                                 |
-|   class-07     |                                                                            |
-|   class-08     |                                                                            |
+|   class-07     | [REST](301/class-07.md)                                                    |
+|   class-08     | [APIs](301/class-08.md)                                                    |
 |   class-09     |                                                                            |
-|   class-10     |                                                                            |
-|   class-11     |                                                                            |
+|   class-10     | [In memory storage](301/class-10.md)                                       |
+|   class-11     | [Authentication](301/class-11.md)                                          |
 |   class-12     |                                                                            |
 |   class-13     |                                                                            |
 |   class-14     |                                                                            |
