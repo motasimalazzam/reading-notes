@@ -47,3 +47,10 @@ Database which works with certain assumptions or in a certain way.
 3) What type of structure does a relational database work with?
 
 SQ language the structured query language
+
+4) What is a ‘schema’? 
+
+Fields in the table contain datas.
+
+5) What is a NoSQL database?
+
