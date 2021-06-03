@@ -45,17 +45,17 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 | Assignment     |            Link                                                            |
 | -------------- | -------------------------------------------------------------------------- |
 |   class-01     | [Introduction to React and Components](301/class-01.md)                    |
-|   class-02     |                                                                            |
+|   class-02     | [State and Props](301/class-02.md)                                         |
 |   class-03     | [Passing Functions as Props](301/class-03.md)                              |
 |   class-04     | [ React and Forms](301/class-04.md)                                        |
 |   class-05     | [Putting it all together](301/class-05.md)                                 |
 |   class-06     | [NODE.JS](301/class-06.md)                                                 |
 |   class-07     | [REST](301/class-07.md)                                                    |
 |   class-08     | [APIs](301/class-08.md)                                                    |
-|   class-09     |                                                                            |
+|   class-09     | [FUNCTIONAL PROGRAMMING](301/class-09.md)                                  |
 |   class-10     | [In memory storage](301/class-10.md)                                       |
 |   class-11     | [Authentication](301/class-11.md)                                          |
 |   class-12     | [Mongo and Mongoose](301/class-12.md)                                      |
-|   class-13     |                                                                            |
+|   class-13     | [CRUD](301/class-13.md)                                                    |
 |   class-14     |                                                                            |
 |   class-15     |                                                                            |
