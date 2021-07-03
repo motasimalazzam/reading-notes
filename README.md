@@ -66,8 +66,8 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 | -------------- | -------------------------------------------------------------------------- |
 |   class-01     | [Java Basics](401/class-01.md)                                             |
 |   class-02     | [Arrays, Loops, Imports](401/class-02.md)                                  |
-|   class-03     |                                                                            |
-|   class-04     |                                                                            |
+|   class-03     | [Maps, primitives, File I/O](401/class-03.md)                              |
+|   class-04     | [OOP](401/class-04.md)                                                     |
 |   class-05     |                                                                            |
 |   class-06     |                                                                            |
 |   class-07     |                                                                            |
