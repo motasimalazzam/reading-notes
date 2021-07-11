@@ -46,7 +46,7 @@ The stack is a linear data structure that is used to store the collection of obj
 
 6. **IsEmpty** returns true when queue is empty otherwise returns false.
 
-## ## Concepts:
+## Concepts:
 
 * **FIFO**: First In First Out. That means the first item added in the queue  will be the first item go out of the collection.
 
