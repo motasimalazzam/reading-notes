@@ -73,8 +73,8 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-07     |                                                                            |
 |   class-08     |                                                                            |
 |   class-09     |                                                                            |
-|   class-10     |                                                                            |
-|   class-11     |                                                                            |
+|   class-10     | [Stacks and Queues](401/class-10.md)                                       |
+|   class-11     | [Spring](401/class-11.md)                                                        |
 |   class-12     |                                                                            |
 |   class-13     |                                                                            |
 |   class-14     |                                                                            |
