@@ -72,7 +72,7 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-06     |                                                                            |
 |   class-07     |                                                                            |
 |   class-08     |                                                                            |
-|   class-09     |                                                                            |
+|   class-09     | [WRRC and Java](401/class-09.md)                                           |
 |   class-10     | [Stacks and Queues](401/class-10.md)                                       |
 |   class-11     | [Spring](401/class-11.md)                                                  |
 |   class-12     | [Spring RESTful Routing & Static Files](401/class-12.md)                   |
