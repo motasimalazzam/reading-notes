@@ -68,14 +68,15 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-02     | [Arrays, Loops, Imports](401/class-02.md)                                  |
 |   class-03     | [Maps, primitives, File I/O](401/class-03.md)                              |
 |   class-04     | [OOP](401/class-04.md)                                                     |
-|   class-05     |                                                                            |
-|   class-06     |                                                                            |
-|   class-07     |                                                                            |
-|   class-08     |                                                                            |
+|   class-05     | [Linked Lists](401/class-05.md)                                            |
+|   class-06     | [Inheritance and Interfaces](401/class-6.md)                               |
+|   class-07     | No reading assignment for class-07                                         |
+|   class-08     | [OO Design](401/class-08.md)                                               |
 |   class-09     | [WRRC and Java](401/class-09.md)                                           |
 |   class-10     | [Stacks and Queues](401/class-10.md)                                       |
 |   class-11     | [Spring](401/class-11.md)                                                  |
 |   class-12     | [Spring RESTful Routing & Static Files](401/class-12.md)                   |
-|   class-13     |                                                                            |
-|   class-14     |                                                                            |
-|   class-15     |                                                                            |
+|   class-13     | [Related Resources and Integration Testing](401/class-13.md)               |
+|   class-15     | [Trees](401/class-15.md)                                                   |
+|   class-16     | [Spring Authentication](401/class-16.md)                                   |
+|   class-17     | [Spring Authorization](401/class-17.md)                                    |

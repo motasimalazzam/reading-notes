@@ -38,4 +38,4 @@ We can set the connect and read timeout by using `setConnectTimeout()` and `setR
 
 ## Reading the Response
 
-To execute the request, we can use the `getResponseCode()`, `connect()`, `getInputStream(`) or` getOutputStream()` methods.
+To execute the request, we can use the `getResponseCode()`, `connect()`, `getInputStream()` or ` getOutputStream()` methods.
