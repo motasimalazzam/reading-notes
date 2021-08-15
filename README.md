@@ -80,3 +80,8 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   class-15     | [Trees](401/class-15.md)                                                   |
 |   class-16     | [Spring Authentication](401/class-16.md)                                   |
 |   class-17     | [Spring Authorization](401/class-17.md)                                    |
+|   Class-18     | [Web App Security](401/class-18.md)                                        |
+|   Class-19     | [Spring and Sockets](401/class-19.md)                                      |
+|   Class-26     | [Android Fundamentals](401/class-26.md)                                    |
+|   Class-27     | [Intents, Activities, and SharedPreferences](401/class-27.md)              |
+|   Class-28     | [RecyclerView for displaying lists of data](401/class-28.md)               |

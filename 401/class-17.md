@@ -15,5 +15,4 @@ There are several samples building on each other, adding new features at each st
 * [custom-error](https://spring.io/guides/tutorials/spring-boot-oauth2/#_social_login_custom_error) : adds an error message for unauthenticated users, and a custom authentication based on GitHub’s API.
 
 
-
 The rest of the page show us how to build a sample app doing various things with "social login" using OAuth 2.0 and Spring Boot. [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
