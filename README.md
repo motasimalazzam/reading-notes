@@ -85,3 +85,6 @@ Hello, I am **Motasim Al-Azzam**. I am a *Mechanical Engineer*, graduated from A
 |   Class-26     | [Android Fundamentals](401/class-26.md)                                    |
 |   Class-27     | [Intents, Activities, and SharedPreferences](401/class-27.md)              |
 |   Class-28     | [RecyclerView for displaying lists of data](401/class-28.md)               |
+|   Class-29     | [Room](401/class-29.md)                                                    |
+|   Class-30     | [Hash Tables](401/class-30.md)                                             |
+|   Class-31     | [Espresso](401/class-31.md)                                                |
